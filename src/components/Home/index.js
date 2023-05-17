@@ -181,10 +181,10 @@ function Home() {
 
     {/*-----------------------------Button-Container------------------ */ }
         <div className='btn-container'>
-          <button className='cancel-btn' >
+          <button className='cancel-btn' disabled >
             CANCEL
           </button>
-          <button className='pay-btn' >
+          <button className='pay-btn' disabled >
             PROCEED TO PAY
           </button>
           </div>  
