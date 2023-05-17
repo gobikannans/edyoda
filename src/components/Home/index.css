@@ -502,6 +502,7 @@
     text-align: center;
     text-transform: uppercase;
     color: #F77171;
+    cursor: pointer;
 }
 
 .pay-btn{
@@ -525,6 +526,8 @@
     text-align: center;
     text-transform: uppercase;
     color: #ffffff;
+    cursor: pointer;
+
 }
 
 
